@@ -10,7 +10,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-@WebServlet("/Signup.jsp")
+@WebServlet("/Signup")
 public class Signup extends HttpServlet
 {
 	
